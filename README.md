@@ -79,3 +79,9 @@ Meghna Dutta
 ## ⭐ Acknowledgment
 
 This project was created as part of a frontend development project and showcases UI/UX skills with modern web design.
+
+---
+
+## 🌐 Live Demo
+
+👉 [Click here to view HarmonyAI](https://harmonyai-meghna.netlify.app)
