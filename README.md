@@ -57,7 +57,7 @@ HarmonyAI is a modern, responsive frontend web application designed for an AI-po
 
 ## 📸 Preview
 
-(Add screenshots here if needed)
+![HarmonyAI Preview](preview.png)
 
 ---
 
@@ -72,7 +72,7 @@ HarmonyAI is a modern, responsive frontend web application designed for an AI-po
 
 ## 👨‍💻 Author
 
-Cloudy  
+Meghna Dutta
 
 ---
 
