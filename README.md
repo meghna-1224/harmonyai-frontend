@@ -1,5 +1,5 @@
 # 🎵 HarmonyAI – AI Music Platform (Frontend)
-👉 [Live Demo](https://your-link.netlify.app)
+👉 [Live Demo](https://harmonyai-meghna.netlify.app)
 
 HarmonyAI is a modern, responsive frontend web application designed for an AI-powered music creation platform. It allows users to explore features like beat generation, cloud mixing, and collaboration in a visually engaging UI.
 
